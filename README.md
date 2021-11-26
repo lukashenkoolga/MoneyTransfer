@@ -20,8 +20,8 @@ public class Main {
     }
 }
 ```
-Артефакты:
-* Баг-репорт 
+Артефакты: 
+* Баг-репорт (https://github.com/lukashenkoolga/MoneyTransfer/issues/1#issue-1062590366)
 Фактический результат:
 ![Screenshot_2](https://user-images.githubusercontent.com/92767338/143269777-326086d0-7a6c-482b-b910-3c5e6f6fce67.png)
 
